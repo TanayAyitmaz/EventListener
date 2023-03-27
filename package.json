@@ -1,0 +1,23 @@
+{
+  "name": "eventlistener",
+  "version": "1.0.0",
+  "description": "Blockchain Event Listener",
+  "main": "index_usdt.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TanayAyitmaz/EventListener.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TanayAyitmaz/EventListener/issues"
+  },
+  "homepage": "https://github.com/TanayAyitmaz/EventListener#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "ethers": "^5.2.0"
+  }
+}
